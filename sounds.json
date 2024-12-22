@@ -1,0 +1,31 @@
+{
+    "music.game": {
+     "category": "music",
+     "sounds": [
+      {
+       "name": "music/game/alpha",
+       "stream": true
+      },
+      {
+       "name": "music/game/aria_math",
+       "stream": true
+      },
+      {
+       "name": "music/game/blind_spots",
+       "stream": true
+      },
+      {
+       "name": "music/game/particles",
+       "stream": true
+      },
+      {
+       "name": "music/game/cliffside_hinson",
+       "stream": true
+      },
+      {
+       "name": "music/game/the_first_million",
+       "stream": true
+      }
+     ]
+    }
+}
