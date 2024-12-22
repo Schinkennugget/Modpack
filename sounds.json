@@ -3,27 +3,15 @@
      "category": "music",
      "sounds": [
       {
-       "name": "music/game/alpha",
+       "name": "music/game/all_i_want_in_minecraft",
        "stream": true
       },
       {
-       "name": "music/game/aria_math",
+       "name": "music/game/diamond_pick",
        "stream": true
       },
       {
-       "name": "music/game/blind_spots",
-       "stream": true
-      },
-      {
-       "name": "music/game/particles",
-       "stream": true
-      },
-      {
-       "name": "music/game/cliffside_hinson",
-       "stream": true
-      },
-      {
-       "name": "music/game/the_first_million",
+       "name": "music/game/last_rizzmas",
        "stream": true
       }
      ]
