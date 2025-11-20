@@ -1,12 +1,4 @@
-import java.util.*;
+void breitensuche(String stratKnoten, String endKnoten) {
 
-class Knoten {
-  private String bezeichner;
-  Knoten(String bezeichner) {
-    this.bezeichner = bezeichner;
-  }
 }
-
-class GraphMatrix {
-  ArrayList<ArrayList<Integer>> matrix = new ArrayList<ArrayList<Integer>>;
 
